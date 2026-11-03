@@ -1,0 +1,652 @@
+{
+  "templateId": "caldoro",
+  "pages": [
+    {
+      "slug": "",
+      "referenceUrl": "https://caldoro.framer.website/",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/5YMNDKZ3WeldsCKPNEFqJH5lrPY.jpg?width=1600&height=1280",
+          "localPath": "/templates/caldoro/media/ca5101f2e9-5YMNDKZ3WeldsCKPNEFqJH5lrPY.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "1280",
+          "decodedWidth": 1600,
+          "decodedHeight": 1280,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "localPath": "/templates/caldoro/media/84e58c47fe-yOIVblTSS0lLKYqxQibC5vXerRI.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2243",
+          "decodedWidth": 1600,
+          "decodedHeight": 2243,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "localPath": "/templates/caldoro/media/84e58c47fe-yOIVblTSS0lLKYqxQibC5vXerRI.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2243",
+          "decodedWidth": 1600,
+          "decodedHeight": 2243,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/sa3zaAMKnAwNmtuzZo1DWb4QH1E.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/0905e43e18-sa3zaAMKnAwNmtuzZo1DWb4QH1E.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/WtYG1afQutWufxi4syPUksb1ERU.jpg?width=1600&height=1220",
+          "localPath": "/templates/caldoro/media/cfb34a9c82-WtYG1afQutWufxi4syPUksb1ERU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "1220",
+          "decodedWidth": 1600,
+          "decodedHeight": 1220,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/BU49McVj9uHQkjZLjrxDckU7D80.jpg?width=1600&height=1066",
+          "localPath": "/templates/caldoro/media/1c9b5f2640-BU49McVj9uHQkjZLjrxDckU7D80.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "1066",
+          "decodedWidth": 1600,
+          "decodedHeight": 1066,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "menu/classic-cold-brew",
+      "referenceUrl": "https://caldoro.framer.website/menu/classic-cold-brew",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "menu/golden-oat-latte",
+      "referenceUrl": "https://caldoro.framer.website/menu/golden-oat-latte",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "menu",
+      "referenceUrl": "https://caldoro.framer.website/menu",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "localPath": "/templates/caldoro/media/84e58c47fe-yOIVblTSS0lLKYqxQibC5vXerRI.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2243",
+          "decodedWidth": 1600,
+          "decodedHeight": 2243,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "localPath": "/templates/caldoro/media/84e58c47fe-yOIVblTSS0lLKYqxQibC5vXerRI.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2243",
+          "decodedWidth": 1600,
+          "decodedHeight": 2243,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+          "localPath": "/templates/caldoro/media/d570356bda-ZJDS29ZIJg4xCe2vHBRwrvzE.jpg",
+          "declaredWidth": "1200",
+          "declaredHeight": "1800",
+          "decodedWidth": 1200,
+          "decodedHeight": 1800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+          "localPath": "/templates/caldoro/media/d570356bda-ZJDS29ZIJg4xCe2vHBRwrvzE.jpg",
+          "declaredWidth": "1200",
+          "declaredHeight": "1800",
+          "decodedWidth": 1200,
+          "decodedHeight": 1800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+          "localPath": "/templates/caldoro/media/9d282b4337-7Y70Qr0yrY7855yQaNrkxROs3i4.jpg",
+          "declaredWidth": "1200",
+          "declaredHeight": "1804",
+          "decodedWidth": 1200,
+          "decodedHeight": 1804,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+          "localPath": "/templates/caldoro/media/9d282b4337-7Y70Qr0yrY7855yQaNrkxROs3i4.jpg",
+          "declaredWidth": "1200",
+          "declaredHeight": "1804",
+          "decodedWidth": 1200,
+          "decodedHeight": 1804,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "referenceUrl": "https://caldoro.framer.website/contact",
+      "media": []
+    },
+    {
+      "slug": "menu/vanilla-cloud-latte",
+      "referenceUrl": "https://caldoro.framer.website/menu/vanilla-cloud-latte",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/5d2f504de8-NWzm0SiFOJEGwIbbnNiA3mxkU.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "menu/mocha-daydream",
+      "referenceUrl": "https://caldoro.framer.website/menu/mocha-daydream",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "localPath": "/templates/caldoro/media/84e58c47fe-yOIVblTSS0lLKYqxQibC5vXerRI.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2243",
+          "decodedWidth": 1600,
+          "decodedHeight": 2243,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "menu/salted-honey-brew",
+      "referenceUrl": "https://caldoro.framer.website/menu/salted-honey-brew",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+          "localPath": "/templates/caldoro/media/9d282b4337-7Y70Qr0yrY7855yQaNrkxROs3i4.jpg",
+          "declaredWidth": "1200",
+          "declaredHeight": "1804",
+          "decodedWidth": 1200,
+          "decodedHeight": 1804,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    },
+    {
+      "slug": "menu/sunrise-tonic",
+      "referenceUrl": "https://caldoro.framer.website/menu/sunrise-tonic",
+      "media": [
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+          "localPath": "/templates/caldoro/media/d570356bda-ZJDS29ZIJg4xCe2vHBRwrvzE.jpg",
+          "declaredWidth": "1200",
+          "declaredHeight": "1800",
+          "decodedWidth": 1200,
+          "decodedHeight": 1800,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/a02381900d-a8V9skhhf3kwiuSpd7nMD4YMlk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        },
+        {
+          "tag": "img",
+          "alt": null,
+          "sourceUrl": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "localPath": "/templates/caldoro/media/618d547118-nrgtGV7xU60MZiNziHZQGXvJk.jpg",
+          "declaredWidth": "1600",
+          "declaredHeight": "2400",
+          "decodedWidth": 1600,
+          "decodedHeight": 2400,
+          "dimensionKind": "decoded-frame-pixels"
+        }
+      ]
+    }
+  ]
+}

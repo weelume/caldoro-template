@@ -1,0 +1,5792 @@
+{
+  "pages": [
+    {
+      "slug": "",
+      "url": "https://caldoro.framer.website",
+      "title": "Good coffee.Golden moments.",
+      "category": "home",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Meet your new daily ritual",
+          "section": "Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Good coffee.Golden moments.",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Caldoro: smooth, slow-steeped coffee made to bring a little brightness to your everyday. Bold enough to wake you up, easy enough to make you stay.",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Explore the Menu",
+          "section": "Hero",
+          "href": "./menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Our Story",
+          "section": "Hero",
+          "href": "./#story",
+          "resolvedHref": "/#story"
+        },
+        {
+          "tag": "p",
+          "text": "12+",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Hours slow-steeped for a smoother, brighter cup",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Classic Cold Brew — slow-steeped",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Slow steeped",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Served chilled",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor profile",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Smoothness",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Silky",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Boldness",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Rich",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Sweetness",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Gentle",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Hero",
+          "href": "./contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "The crowd-pleasers",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h2",
+          "text": "Your next favorite, right here.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "From creamy classics to refreshing twists, there’s a Caldoro for every kind of coffee mood.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "Coffee Menu",
+          "href": "./menu/classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "Coffee Menu",
+          "href": "./menu/vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "Coffee Menu",
+          "href": "./menu/golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        },
+        {
+          "tag": "p",
+          "text": "04",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Mocha Daydream",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, roasted coffee, soft sweetness",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Mocha Daydream",
+          "section": "Coffee Menu",
+          "href": "./menu/mocha-daydream",
+          "resolvedHref": "/menu/mocha-daydream"
+        },
+        {
+          "tag": "p",
+          "text": "See the Full Menu",
+          "section": "Coffee Menu",
+          "href": "./menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Get started",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Sip into something good",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Good days start slow",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Brewed with care",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Made for your moment",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Sip into something good",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Caldoro",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Made for sunny walks",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "A little more about us",
+          "section": "Our Story"
+        },
+        {
+          "tag": "h2",
+          "text": "Slow steep. Big feeling.",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "We believe great coffee doesn’t need to be complicated. It starts with thoughtfully selected beans, a patient brewing process, and a love for the little moments that make a day feel good. Caldoro was created to make those moments easier to find—one smooth, refreshing cup at a time.",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Made for early starts, long conversations, sunny walks, and the pause you didn’t know you needed.",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Get to Know Caldoro",
+          "section": "Our Story",
+          "href": "./#beans",
+          "resolvedHref": "/#beans"
+        },
+        {
+          "tag": "p",
+          "text": "12+",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Hours slow-steeped",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Goodness in every bean",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "h2",
+          "text": "Thoughtful beans. Unmistakably smooth.",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "The secret to a better cold brew is giving good coffee the time it deserves. We focus on balanced flavor, a smooth finish, and a brewing approach that lets the character of the beans shine through.",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "Discover Our Coffee",
+          "section": "Our Beans",
+          "href": "./menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "001",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "h3",
+          "text": "Selected with care",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "Coffee chosen for a rounded, balanced cup.",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "A fresh pour",
+          "section": "Brand Moment"
+        },
+        {
+          "tag": "h2",
+          "text": "Make room for a good moment.",
+          "section": "Brand Moment"
+        },
+        {
+          "tag": "p",
+          "text": "A fresh pour. A little sunshine. A sip that makes you slow down.",
+          "section": "Brand Moment"
+        },
+        {
+          "tag": "p",
+          "text": "Find Your Caldoro",
+          "section": "Brand Moment",
+          "href": "./contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "A little goodness in your inbox",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "h2",
+          "text": "Stay in the good brew.",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "p",
+          "text": "Get first sips of new flavors, behind-the-scenes moments, and occasional notes to brighten your coffee routine.",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "p",
+          "text": "Email",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "input",
+          "text": "Your email address",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "button",
+          "text": "Count Me In",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "p",
+          "text": "By signing up, you agree to receive email updates from Caldoro. Unsubscribe anytime.",
+          "section": "Newsletter"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Meet your new daily ritual",
+          "section": "Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Good coffee.Golden moments.",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Caldoro: smooth, slow-steeped coffee made to bring a little brightness to your everyday. Bold enough to wake you up, easy enough to make you stay.",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Explore the Menu",
+          "section": "Hero",
+          "href": "./menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Our Story",
+          "section": "Hero",
+          "href": "./#story",
+          "resolvedHref": "/#story"
+        },
+        {
+          "tag": "p",
+          "text": "12+",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Hours slow-steeped for a smoother, brighter cup",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Classic Cold Brew — slow-steeped",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Slow steeped",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Served chilled",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor profile",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Smoothness",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Silky",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Boldness",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Rich",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Sweetness",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Gentle",
+          "section": "Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Hero",
+          "href": "./contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "The crowd-pleasers",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h2",
+          "text": "Your next favorite, right here.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "From creamy classics to refreshing twists, there’s a Caldoro for every kind of coffee mood.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "Coffee Menu",
+          "href": "./menu/classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "Coffee Menu",
+          "href": "./menu/vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "Coffee Menu",
+          "href": "./menu/golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        },
+        {
+          "tag": "p",
+          "text": "04",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Mocha Daydream",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, roasted coffee, soft sweetness",
+          "section": "Coffee Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Mocha Daydream",
+          "section": "Coffee Menu",
+          "href": "./menu/mocha-daydream",
+          "resolvedHref": "/menu/mocha-daydream"
+        },
+        {
+          "tag": "p",
+          "text": "See the Full Menu",
+          "section": "Coffee Menu",
+          "href": "./menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Get started",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Sip into something good",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Good days start slow",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Brewed with care",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Made for your moment",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Sip into something good",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Caldoro",
+          "section": "Brand Marquee"
+        },
+        {
+          "tag": "p",
+          "text": "Made for sunny walks",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "A little more about us",
+          "section": "Our Story"
+        },
+        {
+          "tag": "h2",
+          "text": "Slow steep. Big feeling.",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "We believe great coffee doesn’t need to be complicated. It starts with thoughtfully selected beans, a patient brewing process, and a love for the little moments that make a day feel good. Caldoro was created to make those moments easier to find—one smooth, refreshing cup at a time.",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Made for early starts, long conversations, sunny walks, and the pause you didn’t know you needed.",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Get to Know Caldoro",
+          "section": "Our Story",
+          "href": "./#beans",
+          "resolvedHref": "/#beans"
+        },
+        {
+          "tag": "p",
+          "text": "12+",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Hours slow-steeped",
+          "section": "Our Story"
+        },
+        {
+          "tag": "p",
+          "text": "Goodness in every bean",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "h2",
+          "text": "Thoughtful beans. Unmistakably smooth.",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "The secret to a better cold brew is giving good coffee the time it deserves. We focus on balanced flavor, a smooth finish, and a brewing approach that lets the character of the beans shine through.",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "Discover Our Coffee",
+          "section": "Our Beans",
+          "href": "./menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "001",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "h3",
+          "text": "Selected with care",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "Coffee chosen for a rounded, balanced cup.",
+          "section": "Our Beans"
+        },
+        {
+          "tag": "p",
+          "text": "A fresh pour",
+          "section": "Brand Moment"
+        },
+        {
+          "tag": "h2",
+          "text": "Make room for a good moment.",
+          "section": "Brand Moment"
+        },
+        {
+          "tag": "p",
+          "text": "A fresh pour. A little sunshine. A sip that makes you slow down.",
+          "section": "Brand Moment"
+        },
+        {
+          "tag": "p",
+          "text": "Find Your Caldoro",
+          "section": "Brand Moment",
+          "href": "./contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "A little goodness in your inbox",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "h2",
+          "text": "Stay in the good brew.",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "p",
+          "text": "Get first sips of new flavors, behind-the-scenes moments, and occasional notes to brighten your coffee routine.",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "p",
+          "text": "Email",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "input",
+          "text": "Your email address",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "button",
+          "text": "Count Me In",
+          "section": "Newsletter"
+        },
+        {
+          "tag": "p",
+          "text": "By signing up, you agree to receive email updates from Caldoro. Unsubscribe anytime.",
+          "section": "Newsletter"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/5YMNDKZ3WeldsCKPNEFqJH5lrPY.jpg?width=1600&height=1280",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/sa3zaAMKnAwNmtuzZo1DWb4QH1E.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/WtYG1afQutWufxi4syPUksb1ERU.jpg?width=1600&height=1220",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/BU49McVj9uHQkjZLjrxDckU7D80.jpg?width=1600&height=1066",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/5YMNDKZ3WeldsCKPNEFqJH5lrPY.jpg?width=1600&height=1280",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/sa3zaAMKnAwNmtuzZo1DWb4QH1E.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/WtYG1afQutWufxi4syPUksb1ERU.jpg?width=1600&height=1220",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/BU49McVj9uHQkjZLjrxDckU7D80.jpg?width=1600&height=1066",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/menu",
+        "/#story",
+        "/contact",
+        "/menu/classic-cold-brew",
+        "/menu/vanilla-cloud-latte",
+        "/menu/golden-oat-latte",
+        "/menu/mocha-daydream",
+        "/menu",
+        "/#beans",
+        "/menu",
+        "/contact"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Meet your new daily ritual",
+              "section": "Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Good coffee.Golden moments.",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Caldoro: smooth, slow-steeped coffee made to bring a little brightness to your everyday. Bold enough to wake you up, easy enough to make you stay.",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Explore the Menu",
+              "section": "Hero",
+              "href": "./menu",
+              "resolvedHref": "/menu"
+            },
+            {
+              "tag": "p",
+              "text": "Our Story",
+              "section": "Hero",
+              "href": "./#story",
+              "resolvedHref": "/#story"
+            },
+            {
+              "tag": "p",
+              "text": "12+",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Hours slow-steeped for a smoother, brighter cup",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Classic Cold Brew — slow-steeped",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Slow steeped",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Served chilled",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor profile",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Smoothness",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Silky",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Boldness",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Rich",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Sweetness",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Gentle",
+              "section": "Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Hero",
+              "href": "./contact",
+              "resolvedHref": "/contact"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/5YMNDKZ3WeldsCKPNEFqJH5lrPY.jpg?width=1600&height=1280",
+              "alt": null,
+              "section": "Hero"
+            }
+          ],
+          "links": [
+            {
+              "text": "Explore the Menu",
+              "href": "./menu",
+              "resolvedHref": "/menu"
+            },
+            {
+              "text": "Our Story",
+              "href": "./#story",
+              "resolvedHref": "/#story"
+            },
+            {
+              "text": "Find Caldoro",
+              "href": "./contact",
+              "resolvedHref": "/contact"
+            }
+          ]
+        },
+        {
+          "name": "Coffee Menu",
+          "items": [
+            {
+              "tag": "p",
+              "text": "The crowd-pleasers",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "h2",
+              "text": "Your next favorite, right here.",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "From creamy classics to refreshing twists, there’s a Caldoro for every kind of coffee mood.",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "01",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Classic Cold Brew",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Classic",
+              "section": "Coffee Menu",
+              "href": "./menu/classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "tag": "p",
+              "text": "02",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla Cloud Latte",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Vanilla Cloud",
+              "section": "Coffee Menu",
+              "href": "./menu/vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            },
+            {
+              "tag": "p",
+              "text": "03",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Golden Oat Latte",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Toasted oats, brown sugar, gentle coffee",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Golden Oat",
+              "section": "Coffee Menu",
+              "href": "./menu/golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            },
+            {
+              "tag": "p",
+              "text": "04",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Mocha Daydream",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, roasted coffee, soft sweetness",
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Mocha Daydream",
+              "section": "Coffee Menu",
+              "href": "./menu/mocha-daydream",
+              "resolvedHref": "/menu/mocha-daydream"
+            },
+            {
+              "tag": "p",
+              "text": "See the Full Menu",
+              "section": "Coffee Menu",
+              "href": "./menu",
+              "resolvedHref": "/menu"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Coffee Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+              "alt": null,
+              "section": "Coffee Menu"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Classic",
+              "href": "./menu/classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "text": "Meet Vanilla Cloud",
+              "href": "./menu/vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            },
+            {
+              "text": "Meet Golden Oat",
+              "href": "./menu/golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            },
+            {
+              "text": "Meet Mocha Daydream",
+              "href": "./menu/mocha-daydream",
+              "resolvedHref": "/menu/mocha-daydream"
+            },
+            {
+              "text": "See the Full Menu",
+              "href": "./menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "Brand Marquee",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Get started",
+              "section": "Brand Marquee"
+            },
+            {
+              "tag": "p",
+              "text": "Sip into something good",
+              "section": "Brand Marquee"
+            },
+            {
+              "tag": "p",
+              "text": "Good days start slow",
+              "section": "Brand Marquee"
+            },
+            {
+              "tag": "p",
+              "text": "Brewed with care",
+              "section": "Brand Marquee"
+            },
+            {
+              "tag": "p",
+              "text": "Made for your moment",
+              "section": "Brand Marquee"
+            },
+            {
+              "tag": "p",
+              "text": "Sip into something good",
+              "section": "Brand Marquee"
+            },
+            {
+              "tag": "p",
+              "text": "Caldoro",
+              "section": "Brand Marquee"
+            }
+          ],
+          "images": [],
+          "links": []
+        },
+        {
+          "name": "Our Story",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Made for sunny walks",
+              "section": "Our Story"
+            },
+            {
+              "tag": "p",
+              "text": "A little more about us",
+              "section": "Our Story"
+            },
+            {
+              "tag": "h2",
+              "text": "Slow steep. Big feeling.",
+              "section": "Our Story"
+            },
+            {
+              "tag": "p",
+              "text": "We believe great coffee doesn’t need to be complicated. It starts with thoughtfully selected beans, a patient brewing process, and a love for the little moments that make a day feel good. Caldoro was created to make those moments easier to find—one smooth, refreshing cup at a time.",
+              "section": "Our Story"
+            },
+            {
+              "tag": "p",
+              "text": "Made for early starts, long conversations, sunny walks, and the pause you didn’t know you needed.",
+              "section": "Our Story"
+            },
+            {
+              "tag": "p",
+              "text": "Get to Know Caldoro",
+              "section": "Our Story",
+              "href": "./#beans",
+              "resolvedHref": "/#beans"
+            },
+            {
+              "tag": "p",
+              "text": "12+",
+              "section": "Our Story"
+            },
+            {
+              "tag": "p",
+              "text": "Hours slow-steeped",
+              "section": "Our Story"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/sa3zaAMKnAwNmtuzZo1DWb4QH1E.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Our Story"
+            }
+          ],
+          "links": [
+            {
+              "text": "Get to Know Caldoro",
+              "href": "./#beans",
+              "resolvedHref": "/#beans"
+            }
+          ]
+        },
+        {
+          "name": "Our Beans",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Goodness in every bean",
+              "section": "Our Beans"
+            },
+            {
+              "tag": "h2",
+              "text": "Thoughtful beans. Unmistakably smooth.",
+              "section": "Our Beans"
+            },
+            {
+              "tag": "p",
+              "text": "The secret to a better cold brew is giving good coffee the time it deserves. We focus on balanced flavor, a smooth finish, and a brewing approach that lets the character of the beans shine through.",
+              "section": "Our Beans"
+            },
+            {
+              "tag": "p",
+              "text": "Discover Our Coffee",
+              "section": "Our Beans",
+              "href": "./menu",
+              "resolvedHref": "/menu"
+            },
+            {
+              "tag": "p",
+              "text": "001",
+              "section": "Our Beans"
+            },
+            {
+              "tag": "h3",
+              "text": "Selected with care",
+              "section": "Our Beans"
+            },
+            {
+              "tag": "p",
+              "text": "Coffee chosen for a rounded, balanced cup.",
+              "section": "Our Beans"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/WtYG1afQutWufxi4syPUksb1ERU.jpg?width=1600&height=1220",
+              "alt": null,
+              "section": "Our Beans"
+            }
+          ],
+          "links": [
+            {
+              "text": "Discover Our Coffee",
+              "href": "./menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "Brand Moment",
+          "items": [
+            {
+              "tag": "p",
+              "text": "A fresh pour",
+              "section": "Brand Moment"
+            },
+            {
+              "tag": "h2",
+              "text": "Make room for a good moment.",
+              "section": "Brand Moment"
+            },
+            {
+              "tag": "p",
+              "text": "A fresh pour. A little sunshine. A sip that makes you slow down.",
+              "section": "Brand Moment"
+            },
+            {
+              "tag": "p",
+              "text": "Find Your Caldoro",
+              "section": "Brand Moment",
+              "href": "./contact",
+              "resolvedHref": "/contact"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/BU49McVj9uHQkjZLjrxDckU7D80.jpg?width=1600&height=1066",
+              "alt": null,
+              "section": "Brand Moment"
+            }
+          ],
+          "links": [
+            {
+              "text": "Find Your Caldoro",
+              "href": "./contact",
+              "resolvedHref": "/contact"
+            }
+          ]
+        },
+        {
+          "name": "Newsletter",
+          "items": [
+            {
+              "tag": "p",
+              "text": "A little goodness in your inbox",
+              "section": "Newsletter"
+            },
+            {
+              "tag": "h2",
+              "text": "Stay in the good brew.",
+              "section": "Newsletter"
+            },
+            {
+              "tag": "p",
+              "text": "Get first sips of new flavors, behind-the-scenes moments, and occasional notes to brighten your coffee routine.",
+              "section": "Newsletter"
+            },
+            {
+              "tag": "p",
+              "text": "Email",
+              "section": "Newsletter"
+            },
+            {
+              "tag": "input",
+              "text": "Your email address",
+              "section": "Newsletter"
+            },
+            {
+              "tag": "button",
+              "text": "Count Me In",
+              "section": "Newsletter"
+            },
+            {
+              "tag": "p",
+              "text": "By signing up, you agree to receive email updates from Caldoro. Unsubscribe anytime.",
+              "section": "Newsletter"
+            }
+          ],
+          "images": [],
+          "links": []
+        }
+      ]
+    },
+    {
+      "slug": "menu/classic-cold-brew",
+      "url": "https://caldoro.framer.website/menu/classic-cold-brew",
+      "title": "Classic Cold Brew",
+      "category": "article",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Cold Brew",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Classic Cold Brew",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$4.75",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Our Classic Cold Brew is where Caldoro began. We steep a medium-roast blend from Colombia and Brazil in cold, filtered water for more than 12 hours, then filter it twice for a clean, round cup.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy it black over ice, or add a splash of milk. It is bold enough to wake you up and smooth enough to sip slowly.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "More Drinks",
+          "href": "./golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Cold Brew",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Classic Cold Brew",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$4.75",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Our Classic Cold Brew is where Caldoro began. We steep a medium-roast blend from Colombia and Brazil in cold, filtered water for more than 12 hours, then filter it twice for a clean, round cup.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Enjoy it black over ice, or add a splash of milk. It is bold enough to wake you up and smooth enough to sip slowly.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "More Drinks",
+          "href": "./golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/contact",
+        "/menu",
+        "/menu/vanilla-cloud-latte",
+        "/menu/golden-oat-latte"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Drink Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Cold Brew",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Classic Cold Brew",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Price",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "$4.75",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Our Classic Cold Brew is where Caldoro began. We steep a medium-roast blend from Colombia and Brazil in cold, filtered water for more than 12 hours, then filter it twice for a clean, round cup.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Enjoy it black over ice, or add a splash of milk. It is bold enough to wake you up and smooth enough to sip slowly.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Drink Hero",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "tag": "p",
+              "text": "Back to Menu",
+              "section": "Drink Hero",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Drink Hero"
+            }
+          ],
+          "links": [
+            {
+              "text": "Find Caldoro",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "text": "Back to Menu",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "More Drinks",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Keep exploring",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h2",
+              "text": "You might also like",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "02",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla Cloud Latte",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Vanilla Cloud",
+              "section": "More Drinks",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            },
+            {
+              "tag": "p",
+              "text": "03",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Golden Oat Latte",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Toasted oats, brown sugar, gentle coffee",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Golden Oat",
+              "section": "More Drinks",
+              "href": "./golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Vanilla Cloud",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            },
+            {
+              "text": "Meet Golden Oat",
+              "href": "./golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "menu/golden-oat-latte",
+      "url": "https://caldoro.framer.website/menu/golden-oat-latte",
+      "title": "Golden Oat Latte",
+      "category": "article",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Golden Oat Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.75",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Golden Oat is our fully plant-based favorite. Creamy oat milk meets a brighter coffee blend and a hint of brown sugar.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "It is naturally smooth, never heavy, and made for slow mornings.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Golden Oat Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.75",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Golden Oat is our fully plant-based favorite. Creamy oat milk meets a brighter coffee blend and a hint of brown sugar.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "It is naturally smooth, never heavy, and made for slow mornings.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/contact",
+        "/menu",
+        "/menu/classic-cold-brew",
+        "/menu/vanilla-cloud-latte"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Drink Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Latte",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Golden Oat Latte",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Price",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "$5.75",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "Toasted oats, brown sugar, gentle coffee",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Golden Oat is our fully plant-based favorite. Creamy oat milk meets a brighter coffee blend and a hint of brown sugar.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "It is naturally smooth, never heavy, and made for slow mornings.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Drink Hero",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "tag": "p",
+              "text": "Back to Menu",
+              "section": "Drink Hero",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Drink Hero"
+            }
+          ],
+          "links": [
+            {
+              "text": "Find Caldoro",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "text": "Back to Menu",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "More Drinks",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Keep exploring",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h2",
+              "text": "You might also like",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "01",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Classic Cold Brew",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Classic",
+              "section": "More Drinks",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "tag": "p",
+              "text": "02",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla Cloud Latte",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Vanilla Cloud",
+              "section": "More Drinks",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Classic",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "text": "Meet Vanilla Cloud",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "menu",
+      "url": "https://caldoro.framer.website/menu",
+      "title": "Every Caldoro, all in one place.",
+      "category": "index",
+      "items": [
+        {
+          "tag": "p",
+          "text": "The full menu",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h1",
+          "text": "Every Caldoro, all in one place.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Slow-steeped cold brews, creamy lattes, and a few seasonal surprises. Every drink starts with the same good beans and plenty of time.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "Full Menu",
+          "href": "./menu/classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "Full Menu",
+          "href": "./menu/vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "Full Menu",
+          "href": "./menu/golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        },
+        {
+          "tag": "p",
+          "text": "04",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Mocha Daydream",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, roasted coffee, soft sweetness",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Mocha Daydream",
+          "section": "Full Menu",
+          "href": "./menu/mocha-daydream",
+          "resolvedHref": "/menu/mocha-daydream"
+        },
+        {
+          "tag": "p",
+          "text": "05",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Sunrise Tonic",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Sparkling tonic poured over cold brew with a twist of fresh orange. Bright, bubbly, and made for warm days.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Orange peel, citrus, crisp bitterness",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Sunrise Tonic",
+          "section": "Full Menu",
+          "href": "./menu/sunrise-tonic",
+          "resolvedHref": "/menu/sunrise-tonic"
+        },
+        {
+          "tag": "p",
+          "text": "06",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Salted Honey Brew",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cold brew sweetened with wildflower honey and a pinch of sea salt, topped with a light layer of cream.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Wildflower honey, sea salt, soft cream",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Salted Honey",
+          "section": "Full Menu",
+          "href": "./menu/salted-honey-brew",
+          "resolvedHref": "/menu/salted-honey-brew"
+        },
+        {
+          "tag": "p",
+          "text": "Need a hand choosing?",
+          "section": "Contact CTA"
+        },
+        {
+          "tag": "h2",
+          "text": "Can’t decide? Let’s talk coffee.",
+          "section": "Contact CTA"
+        },
+        {
+          "tag": "p",
+          "text": "Tell us how you like your cup and we’ll point you to your perfect Caldoro. We also help with office orders and events.",
+          "section": "Contact CTA"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Contact CTA",
+          "href": "./contact",
+          "resolvedHref": "/contact"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "The full menu",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h1",
+          "text": "Every Caldoro, all in one place.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Slow-steeped cold brews, creamy lattes, and a few seasonal surprises. Every drink starts with the same good beans and plenty of time.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "Full Menu",
+          "href": "./menu/classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "Full Menu",
+          "href": "./menu/vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "Full Menu",
+          "href": "./menu/golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        },
+        {
+          "tag": "p",
+          "text": "04",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Mocha Daydream",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, roasted coffee, soft sweetness",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Mocha Daydream",
+          "section": "Full Menu",
+          "href": "./menu/mocha-daydream",
+          "resolvedHref": "/menu/mocha-daydream"
+        },
+        {
+          "tag": "p",
+          "text": "05",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Sunrise Tonic",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Sparkling tonic poured over cold brew with a twist of fresh orange. Bright, bubbly, and made for warm days.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Orange peel, citrus, crisp bitterness",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Sunrise Tonic",
+          "section": "Full Menu",
+          "href": "./menu/sunrise-tonic",
+          "resolvedHref": "/menu/sunrise-tonic"
+        },
+        {
+          "tag": "p",
+          "text": "06",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "h3",
+          "text": "Salted Honey Brew",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Cold brew sweetened with wildflower honey and a pinch of sea salt, topped with a light layer of cream.",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Wildflower honey, sea salt, soft cream",
+          "section": "Full Menu"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Salted Honey",
+          "section": "Full Menu",
+          "href": "./menu/salted-honey-brew",
+          "resolvedHref": "/menu/salted-honey-brew"
+        },
+        {
+          "tag": "p",
+          "text": "Need a hand choosing?",
+          "section": "Contact CTA"
+        },
+        {
+          "tag": "h2",
+          "text": "Can’t decide? Let’s talk coffee.",
+          "section": "Contact CTA"
+        },
+        {
+          "tag": "p",
+          "text": "Tell us how you like your cup and we’ll point you to your perfect Caldoro. We also help with office orders and events.",
+          "section": "Contact CTA"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Contact CTA",
+          "href": "./contact",
+          "resolvedHref": "/contact"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/menu/classic-cold-brew",
+        "/menu/vanilla-cloud-latte",
+        "/menu/golden-oat-latte",
+        "/menu/mocha-daydream",
+        "/menu/sunrise-tonic",
+        "/menu/salted-honey-brew",
+        "/contact"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Full Menu",
+          "items": [
+            {
+              "tag": "p",
+              "text": "The full menu",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "h1",
+              "text": "Every Caldoro, all in one place.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Slow-steeped cold brews, creamy lattes, and a few seasonal surprises. Every drink starts with the same good beans and plenty of time.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "01",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Classic Cold Brew",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Classic",
+              "section": "Full Menu",
+              "href": "./menu/classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "tag": "p",
+              "text": "02",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla Cloud Latte",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Vanilla Cloud",
+              "section": "Full Menu",
+              "href": "./menu/vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            },
+            {
+              "tag": "p",
+              "text": "03",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Golden Oat Latte",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Toasted oats, brown sugar, gentle coffee",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Golden Oat",
+              "section": "Full Menu",
+              "href": "./menu/golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            },
+            {
+              "tag": "p",
+              "text": "04",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Mocha Daydream",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, roasted coffee, soft sweetness",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Mocha Daydream",
+              "section": "Full Menu",
+              "href": "./menu/mocha-daydream",
+              "resolvedHref": "/menu/mocha-daydream"
+            },
+            {
+              "tag": "p",
+              "text": "05",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Sunrise Tonic",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Sparkling tonic poured over cold brew with a twist of fresh orange. Bright, bubbly, and made for warm days.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Orange peel, citrus, crisp bitterness",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Sunrise Tonic",
+              "section": "Full Menu",
+              "href": "./menu/sunrise-tonic",
+              "resolvedHref": "/menu/sunrise-tonic"
+            },
+            {
+              "tag": "p",
+              "text": "06",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "h3",
+              "text": "Salted Honey Brew",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Cold brew sweetened with wildflower honey and a pinch of sea salt, topped with a light layer of cream.",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Wildflower honey, sea salt, soft cream",
+              "section": "Full Menu"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Salted Honey",
+              "section": "Full Menu",
+              "href": "./menu/salted-honey-brew",
+              "resolvedHref": "/menu/salted-honey-brew"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Full Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Full Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Full Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+              "alt": null,
+              "section": "Full Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+              "alt": null,
+              "section": "Full Menu"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+              "alt": null,
+              "section": "Full Menu"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Classic",
+              "href": "./menu/classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "text": "Meet Vanilla Cloud",
+              "href": "./menu/vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            },
+            {
+              "text": "Meet Golden Oat",
+              "href": "./menu/golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            },
+            {
+              "text": "Meet Mocha Daydream",
+              "href": "./menu/mocha-daydream",
+              "resolvedHref": "/menu/mocha-daydream"
+            },
+            {
+              "text": "Meet Sunrise Tonic",
+              "href": "./menu/sunrise-tonic",
+              "resolvedHref": "/menu/sunrise-tonic"
+            },
+            {
+              "text": "Meet Salted Honey",
+              "href": "./menu/salted-honey-brew",
+              "resolvedHref": "/menu/salted-honey-brew"
+            }
+          ]
+        },
+        {
+          "name": "Contact CTA",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Need a hand choosing?",
+              "section": "Contact CTA"
+            },
+            {
+              "tag": "h2",
+              "text": "Can’t decide? Let’s talk coffee.",
+              "section": "Contact CTA"
+            },
+            {
+              "tag": "p",
+              "text": "Tell us how you like your cup and we’ll point you to your perfect Caldoro. We also help with office orders and events.",
+              "section": "Contact CTA"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Contact CTA",
+              "href": "./contact",
+              "resolvedHref": "/contact"
+            }
+          ],
+          "images": [],
+          "links": [
+            {
+              "text": "Find Caldoro",
+              "href": "./contact",
+              "resolvedHref": "/contact"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "url": "https://caldoro.framer.website/contact",
+      "title": "Let’s find your Caldoro.",
+      "category": "index",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Say hello",
+          "section": "Contact Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Let’s find your Caldoro.",
+          "section": "Contact Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Questions about a drink, an office order, or bringing Caldoro to your café? Send us a note and a real person will get back to you within one business day.",
+          "section": "Contact Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Email us",
+          "section": "Contact Body",
+          "href": "mailto:hello@caldoro.example",
+          "resolvedHref": "mailto:hello@caldoro.example"
+        },
+        {
+          "tag": "p",
+          "text": "hello@caldoro.example",
+          "section": "Contact Body",
+          "href": "mailto:hello@caldoro.example",
+          "resolvedHref": "mailto:hello@caldoro.example"
+        },
+        {
+          "tag": "p",
+          "text": "We reply within one business day.",
+          "section": "Contact Body",
+          "href": "mailto:hello@caldoro.example",
+          "resolvedHref": "mailto:hello@caldoro.example"
+        },
+        {
+          "tag": "h3",
+          "text": "Send us a message",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Name",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "input",
+          "text": "Your full name",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Email",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "input",
+          "text": "you@mail.com",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Topic",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "General question",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "Order or drink question",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "Wholesale & cafés",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "Events & catering",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Message",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "textarea",
+          "text": "Tell us a little about what you need…",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "button",
+          "text": "Send Message",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "We only use your details to reply to your message.",
+          "section": "Contact Body"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Say hello",
+          "section": "Contact Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Let’s find your Caldoro.",
+          "section": "Contact Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Questions about a drink, an office order, or bringing Caldoro to your café? Send us a note and a real person will get back to you within one business day.",
+          "section": "Contact Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Email us",
+          "section": "Contact Body",
+          "href": "mailto:hello@caldoro.example",
+          "resolvedHref": "mailto:hello@caldoro.example"
+        },
+        {
+          "tag": "p",
+          "text": "hello@caldoro.example",
+          "section": "Contact Body",
+          "href": "mailto:hello@caldoro.example",
+          "resolvedHref": "mailto:hello@caldoro.example"
+        },
+        {
+          "tag": "p",
+          "text": "We reply within one business day.",
+          "section": "Contact Body",
+          "href": "mailto:hello@caldoro.example",
+          "resolvedHref": "mailto:hello@caldoro.example"
+        },
+        {
+          "tag": "h3",
+          "text": "Send us a message",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Name",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "input",
+          "text": "Your full name",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Email",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "input",
+          "text": "you@mail.com",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Topic",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "General question",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "Order or drink question",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "Wholesale & cafés",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "option",
+          "text": "Events & catering",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "Message",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "textarea",
+          "text": "Tell us a little about what you need…",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "button",
+          "text": "Send Message",
+          "section": "Contact Body"
+        },
+        {
+          "tag": "p",
+          "text": "We only use your details to reply to your message.",
+          "section": "Contact Body"
+        }
+      ],
+      "images": [],
+      "bodyImages": [],
+      "links": [
+        "mailto:hello@caldoro.example"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Contact Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Say hello",
+              "section": "Contact Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Let’s find your Caldoro.",
+              "section": "Contact Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Questions about a drink, an office order, or bringing Caldoro to your café? Send us a note and a real person will get back to you within one business day.",
+              "section": "Contact Hero"
+            }
+          ],
+          "images": [],
+          "links": []
+        },
+        {
+          "name": "Contact Body",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Email us",
+              "section": "Contact Body",
+              "href": "mailto:hello@caldoro.example",
+              "resolvedHref": "mailto:hello@caldoro.example"
+            },
+            {
+              "tag": "p",
+              "text": "hello@caldoro.example",
+              "section": "Contact Body",
+              "href": "mailto:hello@caldoro.example",
+              "resolvedHref": "mailto:hello@caldoro.example"
+            },
+            {
+              "tag": "p",
+              "text": "We reply within one business day.",
+              "section": "Contact Body",
+              "href": "mailto:hello@caldoro.example",
+              "resolvedHref": "mailto:hello@caldoro.example"
+            },
+            {
+              "tag": "h3",
+              "text": "Send us a message",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "p",
+              "text": "Name",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "input",
+              "text": "Your full name",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "p",
+              "text": "Email",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "input",
+              "text": "you@mail.com",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "p",
+              "text": "Topic",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "option",
+              "text": "General question",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "option",
+              "text": "Order or drink question",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "option",
+              "text": "Wholesale & cafés",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "option",
+              "text": "Events & catering",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "p",
+              "text": "Message",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "textarea",
+              "text": "Tell us a little about what you need…",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "button",
+              "text": "Send Message",
+              "section": "Contact Body"
+            },
+            {
+              "tag": "p",
+              "text": "We only use your details to reply to your message.",
+              "section": "Contact Body"
+            }
+          ],
+          "images": [],
+          "links": [
+            {
+              "text": "Email ushello@caldoro.exampleWe reply within one business day.",
+              "href": "mailto:hello@caldoro.example",
+              "resolvedHref": "mailto:hello@caldoro.example"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "https://caldoro.framer.website/menu/vanilla-cloud-latte",
+      "title": "Vanilla Cloud Latte",
+      "category": "article",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Vanilla Cloud Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.50",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "We pair our cold brew concentrate with whole milk and a house-made vanilla bean syrup. The result is soft, creamy, and lightly sweet.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Ask for oat milk if you prefer it dairy-free. The vanilla still shines through.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "More Drinks",
+          "href": "./golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Vanilla Cloud Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.50",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "We pair our cold brew concentrate with whole milk and a house-made vanilla bean syrup. The result is soft, creamy, and lightly sweet.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Ask for oat milk if you prefer it dairy-free. The vanilla still shines through.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "03",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Golden Oat Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Toasted oats, brown sugar, gentle coffee",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Golden Oat",
+          "section": "More Drinks",
+          "href": "./golden-oat-latte",
+          "resolvedHref": "/menu/golden-oat-latte"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/contact",
+        "/menu",
+        "/menu/classic-cold-brew",
+        "/menu/golden-oat-latte"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Drink Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Latte",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Vanilla Cloud Latte",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Price",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "$5.50",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "We pair our cold brew concentrate with whole milk and a house-made vanilla bean syrup. The result is soft, creamy, and lightly sweet.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Ask for oat milk if you prefer it dairy-free. The vanilla still shines through.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Drink Hero",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "tag": "p",
+              "text": "Back to Menu",
+              "section": "Drink Hero",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "Drink Hero"
+            }
+          ],
+          "links": [
+            {
+              "text": "Find Caldoro",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "text": "Back to Menu",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "More Drinks",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Keep exploring",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h2",
+              "text": "You might also like",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "01",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Classic Cold Brew",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Classic",
+              "section": "More Drinks",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "tag": "p",
+              "text": "03",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Golden Oat Latte",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Toasted oats, brown sugar, gentle coffee",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Golden Oat",
+              "section": "More Drinks",
+              "href": "./golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Classic",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "text": "Meet Golden Oat",
+              "href": "./golden-oat-latte",
+              "resolvedHref": "/menu/golden-oat-latte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "menu/mocha-daydream",
+      "url": "https://caldoro.framer.website/menu/mocha-daydream",
+      "title": "Mocha Daydream",
+      "category": "article",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Mocha Daydream",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.75",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Cocoa, roasted coffee, soft sweetness",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Mocha Daydream blends our cold brew with real Dutch cocoa and a little cane sugar, then finishes it with cold milk.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "It tastes like a chocolate bar and a good coffee had a very good afternoon together.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Latte",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Mocha Daydream",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.75",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Cocoa, roasted coffee, soft sweetness",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Mocha Daydream blends our cold brew with real Dutch cocoa and a little cane sugar, then finishes it with cold milk.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "It tastes like a chocolate bar and a good coffee had a very good afternoon together.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/contact",
+        "/menu",
+        "/menu/classic-cold-brew",
+        "/menu/vanilla-cloud-latte"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Drink Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Latte",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Mocha Daydream",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Price",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "$5.75",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "Cocoa, roasted coffee, soft sweetness",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Mocha Daydream blends our cold brew with real Dutch cocoa and a little cane sugar, then finishes it with cold milk.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "It tastes like a chocolate bar and a good coffee had a very good afternoon together.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Drink Hero",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "tag": "p",
+              "text": "Back to Menu",
+              "section": "Drink Hero",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+              "alt": null,
+              "section": "Drink Hero"
+            }
+          ],
+          "links": [
+            {
+              "text": "Find Caldoro",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "text": "Back to Menu",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "More Drinks",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Keep exploring",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h2",
+              "text": "You might also like",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "01",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Classic Cold Brew",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Classic",
+              "section": "More Drinks",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "tag": "p",
+              "text": "02",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla Cloud Latte",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Vanilla Cloud",
+              "section": "More Drinks",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Classic",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "text": "Meet Vanilla Cloud",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "menu/salted-honey-brew",
+      "url": "https://caldoro.framer.website/menu/salted-honey-brew",
+      "title": "Salted Honey Brew",
+      "category": "article",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Seasonal",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Salted Honey Brew",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Cold brew sweetened with wildflower honey and a pinch of sea salt, topped with a light layer of cream.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.50",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Wildflower honey, sea salt, soft cream",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "We sweeten this one with local wildflower honey and add a pinch of flaky sea salt to round out the coffee.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "A light cold foam on top makes every sip a little richer.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Seasonal",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Salted Honey Brew",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Cold brew sweetened with wildflower honey and a pinch of sea salt, topped with a light layer of cream.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.50",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Wildflower honey, sea salt, soft cream",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "We sweeten this one with local wildflower honey and add a pinch of flaky sea salt to round out the coffee.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "A light cold foam on top makes every sip a little richer.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/contact",
+        "/menu",
+        "/menu/classic-cold-brew",
+        "/menu/vanilla-cloud-latte"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Drink Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Seasonal",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Salted Honey Brew",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Cold brew sweetened with wildflower honey and a pinch of sea salt, topped with a light layer of cream.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Price",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "$5.50",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "Wildflower honey, sea salt, soft cream",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "We sweeten this one with local wildflower honey and add a pinch of flaky sea salt to round out the coffee.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "A light cold foam on top makes every sip a little richer.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Drink Hero",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "tag": "p",
+              "text": "Back to Menu",
+              "section": "Drink Hero",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+              "alt": null,
+              "section": "Drink Hero"
+            }
+          ],
+          "links": [
+            {
+              "text": "Find Caldoro",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "text": "Back to Menu",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "More Drinks",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Keep exploring",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h2",
+              "text": "You might also like",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "01",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Classic Cold Brew",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Classic",
+              "section": "More Drinks",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "tag": "p",
+              "text": "02",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla Cloud Latte",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Vanilla Cloud",
+              "section": "More Drinks",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Classic",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "text": "Meet Vanilla Cloud",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "menu/sunrise-tonic",
+      "url": "https://caldoro.framer.website/menu/sunrise-tonic",
+      "title": "Sunrise Tonic",
+      "category": "article",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Seasonal",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Sunrise Tonic",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Sparkling tonic poured over cold brew with a twist of fresh orange. Bright, bubbly, and made for warm days.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.25",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Orange peel, citrus, crisp bitterness",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Sunrise Tonic layers our Classic Cold Brew over chilled tonic water and finishes it with a fresh orange twist.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "It is light, sparkling, and a little unexpected. Our favorite pick for summer afternoons.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "bodyItems": [
+        {
+          "tag": "p",
+          "text": "Seasonal",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h1",
+          "text": "Sunrise Tonic",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Sparkling tonic poured over cold brew with a twist of fresh orange. Bright, bubbly, and made for warm days.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Price",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "$5.25",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "h3",
+          "text": "Orange peel, citrus, crisp bitterness",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Sunrise Tonic layers our Classic Cold Brew over chilled tonic water and finishes it with a fresh orange twist.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "It is light, sparkling, and a little unexpected. Our favorite pick for summer afternoons.",
+          "section": "Drink Hero"
+        },
+        {
+          "tag": "p",
+          "text": "Find Caldoro",
+          "section": "Drink Hero",
+          "href": "../contact",
+          "resolvedHref": "/contact"
+        },
+        {
+          "tag": "p",
+          "text": "Back to Menu",
+          "section": "Drink Hero",
+          "href": "../menu",
+          "resolvedHref": "/menu"
+        },
+        {
+          "tag": "p",
+          "text": "Keep exploring",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h2",
+          "text": "You might also like",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "01",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Classic Cold Brew",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Cocoa, toasted nuts, a clean finish",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Classic",
+          "section": "More Drinks",
+          "href": "./classic-cold-brew",
+          "resolvedHref": "/menu/classic-cold-brew"
+        },
+        {
+          "tag": "p",
+          "text": "02",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "h3",
+          "text": "Vanilla Cloud Latte",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Flavor notes",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Vanilla, caramel, silky milk",
+          "section": "More Drinks"
+        },
+        {
+          "tag": "p",
+          "text": "Meet Vanilla Cloud",
+          "section": "More Drinks",
+          "href": "./vanilla-cloud-latte",
+          "resolvedHref": "/menu/vanilla-cloud-latte"
+        }
+      ],
+      "images": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "bodyImages": [
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+          "alt": null
+        },
+        {
+          "tag": "img",
+          "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+          "alt": null
+        }
+      ],
+      "links": [
+        "/contact",
+        "/menu",
+        "/menu/classic-cold-brew",
+        "/menu/vanilla-cloud-latte"
+      ],
+      "placeholder": false,
+      "sections": [
+        {
+          "name": "Drink Hero",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Seasonal",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h1",
+              "text": "Sunrise Tonic",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Sparkling tonic poured over cold brew with a twist of fresh orange. Bright, bubbly, and made for warm days.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Price",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "$5.25",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "h3",
+              "text": "Orange peel, citrus, crisp bitterness",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Sunrise Tonic layers our Classic Cold Brew over chilled tonic water and finishes it with a fresh orange twist.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "It is light, sparkling, and a little unexpected. Our favorite pick for summer afternoons.",
+              "section": "Drink Hero"
+            },
+            {
+              "tag": "p",
+              "text": "Find Caldoro",
+              "section": "Drink Hero",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "tag": "p",
+              "text": "Back to Menu",
+              "section": "Drink Hero",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+              "alt": null,
+              "section": "Drink Hero"
+            }
+          ],
+          "links": [
+            {
+              "text": "Find Caldoro",
+              "href": "../contact",
+              "resolvedHref": "/contact"
+            },
+            {
+              "text": "Back to Menu",
+              "href": "../menu",
+              "resolvedHref": "/menu"
+            }
+          ]
+        },
+        {
+          "name": "More Drinks",
+          "items": [
+            {
+              "tag": "p",
+              "text": "Keep exploring",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h2",
+              "text": "You might also like",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "01",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Classic Cold Brew",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Cocoa, toasted nuts, a clean finish",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Classic",
+              "section": "More Drinks",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "tag": "p",
+              "text": "02",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "h3",
+              "text": "Vanilla Cloud Latte",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Flavor notes",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Vanilla, caramel, silky milk",
+              "section": "More Drinks"
+            },
+            {
+              "tag": "p",
+              "text": "Meet Vanilla Cloud",
+              "section": "More Drinks",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ],
+          "images": [
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            },
+            {
+              "tag": "img",
+              "src": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+              "alt": null,
+              "section": "More Drinks"
+            }
+          ],
+          "links": [
+            {
+              "text": "Meet Classic",
+              "href": "./classic-cold-brew",
+              "resolvedHref": "/menu/classic-cold-brew"
+            },
+            {
+              "text": "Meet Vanilla Cloud",
+              "href": "./vanilla-cloud-latte",
+              "resolvedHref": "/menu/vanilla-cloud-latte"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

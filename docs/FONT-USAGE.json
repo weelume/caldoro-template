@@ -1,0 +1,419 @@
+{
+  "templateId": "caldoro",
+  "referenceFaces": [
+    {
+      "family": "Archivo Black",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": null,
+      "sources": [
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/archivoblack/v23/HTxqL289NzCGg4MzN6KJ7eW6OY6P_x7yx3A.woff2",
+          "localPath": "/templates/caldoro/media/b6839a8da3-HTxqL289NzCGg4MzN6KJ7eW6OY6P_x7yx3A.woff2"
+        }
+      ]
+    },
+    {
+      "family": "LED Dot-Matrix Regular",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": null,
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/CmV2i6mVQtoxMqWtPUOZwPHVMKE.woff2",
+          "localPath": "/templates/caldoro/media/40da6bafcb-CmV2i6mVQtoxMqWtPUOZwPHVMKE.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "unicodeRange": "U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+          "localPath": "/templates/caldoro/media/48d547890c-DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "unicodeRange": "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+          "localPath": "/templates/caldoro/media/b7bcaf4d38-4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "unicodeRange": "U+1F00-1FFF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+          "localPath": "/templates/caldoro/media/f5679bd140-1K3W8DizY3v4emK8Mb08YHxTbs.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "unicodeRange": "U+0370-03FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+          "localPath": "/templates/caldoro/media/4c7778edc8-tUSCtfYVM1I1IchuyCwz9gDdQ.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "unicodeRange": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+          "localPath": "/templates/caldoro/media/388a7c4ebd-VgYFWiwsAC5OYxAycRXXvhze58.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+          "localPath": "/templates/caldoro/media/cd48ba5f96-syRNPWzAMIrcJ3wIlPIP43KjQs.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "normal",
+      "unicodeRange": "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+          "localPath": "/templates/caldoro/media/c0215d82c6-GIryZETIX4IFypco5pYZONKhJIo.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "italic",
+      "unicodeRange": "U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+          "localPath": "/templates/caldoro/media/1f1f2cc180-H89BbHkbHDzlxZzxi8uPzTsp90.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "italic",
+      "unicodeRange": "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+          "localPath": "/templates/caldoro/media/1f3e1827f7-u6gJwDuwB143kpNK1T1MDKDWkMc.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "italic",
+      "unicodeRange": "U+1F00-1FFF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+          "localPath": "/templates/caldoro/media/2ca7f64738-43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "italic",
+      "unicodeRange": "U+0370-03FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+          "localPath": "/templates/caldoro/media/0c089940c6-wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "italic",
+      "unicodeRange": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+          "localPath": "/templates/caldoro/media/dfa7f96c71-WZ367JPwf9bRW6LdTHN8rXgSjw.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "italic",
+      "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/ia3uin3hQWqDrVloC1zEtYHWw.woff2",
+          "localPath": "/templates/caldoro/media/b59b5fa8f1-ia3uin3hQWqDrVloC1zEtYHWw.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "700",
+      "style": "italic",
+      "unicodeRange": "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+          "localPath": "/templates/caldoro/media/e340c6acad-2A4Xx7CngadFGlVV4xrO06OBHY.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "italic",
+      "unicodeRange": "U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/CfMzU8w2e7tHgF4T4rATMPuWosA.woff2",
+          "localPath": "/templates/caldoro/media/3d473effb9-CfMzU8w2e7tHgF4T4rATMPuWosA.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "italic",
+      "unicodeRange": "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/867QObYax8ANsfX4TGEVU9YiCM.woff2",
+          "localPath": "/templates/caldoro/media/79cc69148c-867QObYax8ANsfX4TGEVU9YiCM.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "italic",
+      "unicodeRange": "U+1F00-1FFF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2",
+          "localPath": "/templates/caldoro/media/39874444e1-Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "italic",
+      "unicodeRange": "U+0370-03FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/cdAe8hgZ1cMyLu9g005pAW3xMo.woff2",
+          "localPath": "/templates/caldoro/media/b8b4c65d65-cdAe8hgZ1cMyLu9g005pAW3xMo.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "italic",
+      "unicodeRange": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/DOfvtmE1UplCq161m6Hj8CSQYg.woff2",
+          "localPath": "/templates/caldoro/media/0cdb6a6ecb-DOfvtmE1UplCq161m6Hj8CSQYg.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "italic",
+      "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/pKRFNWFoZl77qYCAIp84lN1h944.woff2",
+          "localPath": "/templates/caldoro/media/1ef5587c1b-pKRFNWFoZl77qYCAIp84lN1h944.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "italic",
+      "unicodeRange": "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/tKtBcDnBMevsEEJKdNGhhkLzYo.woff2",
+          "localPath": "/templates/caldoro/media/d84988c361-tKtBcDnBMevsEEJKdNGhhkLzYo.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Space Grotesk",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": null,
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/6DG6HUOGHOB35UGAANBDBVY77OCFNQOA/MX56D7EXTFRCL3EZPNM332VF6D5TDENT/2MGP255ZY2RSFHKW6LNN6W6BWQGC2LUO.woff2",
+          "localPath": "/templates/caldoro/media/c914879201-2MGP255ZY2RSFHKW6LNN6W6BWQGC2LUO.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Space Grotesk",
+      "weight": "500",
+      "style": "normal",
+      "unicodeRange": null,
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/LQZILVYBY2UXBMF3ZGAZKDS2P53HB2G5/XB4XS4AXY7LIGYBYPO7RTAIGNPOSSI7K/V2SN6OQGC3Z2CCFHLOEJRJKQXUTOKEBX.woff2",
+          "localPath": "/templates/caldoro/media/0312ec3628-V2SN6OQGC3Z2CCFHLOEJRJKQXUTOKEBX.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": "U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+          "localPath": "/templates/caldoro/media/ba02b29b10-5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": "U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+          "localPath": "/templates/caldoro/media/d342a03511-EOr0mi4hNtlgWNn9if640EZzXCo.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": "U+1F00-1FFF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+          "localPath": "/templates/caldoro/media/29ec2a1bd4-Y9k9QrlZAqio88Klkmbd8VoMQc.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": "U+0370-03FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+          "localPath": "/templates/caldoro/media/2666a469c5-OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": "U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+          "localPath": "/templates/caldoro/media/ca74d67019-JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+          "localPath": "/templates/caldoro/media/5afd609911-GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Inter",
+      "weight": "400",
+      "style": "normal",
+      "unicodeRange": "U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB",
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+          "localPath": "/templates/caldoro/media/b055aed328-b6Y37FthZeALduNqHicBT6FutY.woff2"
+        }
+      ]
+    },
+    {
+      "family": "Space Grotesk",
+      "weight": "600",
+      "style": "normal",
+      "unicodeRange": null,
+      "sources": [
+        {
+          "sourceUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/FOIKAJFLDFRPJ452NHBMMHCNDL4FUUBB/5AC3Y6FTG5H7IECKNZVIR7XI64O5YW5S/OB3CIWMGQGGYEGXRXPOVBXWAH4INE6T4.woff2",
+          "localPath": "/templates/caldoro/media/c67316be45-OB3CIWMGQGGYEGXRXPOVBXWAH4INE6T4.woff2"
+        }
+      ]
+    }
+  ],
+  "localTypography": {
+    "miSansFamily": "CaldoroMiSans",
+    "miSansWeights": [
+      400,
+      700
+    ],
+    "poppinsWeights": [
+      400,
+      600,
+      700
+    ],
+    "files": 208,
+    "bytes": 4313051,
+    "licenses": [
+      "public/templates/caldoro/fonts/Poppins-OFL.txt",
+      "public/templates/caldoro/fonts/misans/LICENSE-SOURCE.md"
+    ]
+  }
+}

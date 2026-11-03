@@ -1,0 +1,6 @@
+import type{SiteTemplatePageProps}from'../../../types'
+import type{ReferencePage}from'../content/types'
+import{Shell}from'../components/Shell'
+import{Content}from'../components/Content'
+import{copy,media,pageImage,text,title}from'../content/data'
+export function Detail({page,locale='zh',basePath}:SiteTemplatePageProps&{page:ReferencePage}){const name=title(page),image=pageImage(page),items=(page.bodyItems??page.items).filter(item=>item.text!==name),images=[...new Map((page.bodyImages??page.images).filter(item=>item.src).map(item=>[item.src,item])).values()];return <Shell locale={locale} basePath={basePath}><section className="section detail-hero"><p className="eyebrow">{copy(locale,'设计、实践与细节','DESIGN, PRACTICE & DETAILS')}</p><h1>{text(name,locale)}</h1>{image&&<img className="detail-cover" src={media(image)} alt={text(name,locale)}/>}</section><section className="section detail-body">{page.placeholder?<p className="source-unavailable">{copy(locale,'参考站此地址未提供正文，尚未补充未经证实的内容。','The reference does not provide content at this address.')}</p>:<Content items={items} locale={locale} basePath={basePath}/>}<div className="detail-gallery">{images.filter(item=>item.src!==image).map((item,i)=><img key={item.src} src={media(item.src!)} alt={`${text(name,locale)} ${i+1}`} loading="lazy"/>)}</div></section></Shell>}

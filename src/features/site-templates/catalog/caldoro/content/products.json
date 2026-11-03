@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "classic-cold-brew",
+    "name": "Classic Cold Brew",
+    "description": "Smooth, rich, and refreshingly simple. Our slow-steeped signature cold brew brings deep coffee flavor without the fuss.",
+    "body": [
+      "Our Classic Cold Brew is where Caldoro began. We steep a medium-roast blend from Colombia and Brazil in cold, filtered water for more than 12 hours, then filter it twice for a clean, round cup.",
+      "Enjoy it black over ice, or add a splash of milk. It is bold enough to wake you up and smooth enough to sip slowly."
+    ],
+    "price": "$4.75",
+    "category": "Cold Brew",
+    "notes": "Cocoa, toasted nuts, a clean finish",
+    "image": "https://framerusercontent.com/images/a8V9skhhf3kwiuSpd7nMD4YMlk.jpg?width=1600&height=2400",
+    "related": [
+      "vanilla-cloud-latte",
+      "golden-oat-latte"
+    ],
+    "cta": "Meet Classic"
+  },
+  {
+    "slug": "vanilla-cloud-latte",
+    "name": "Vanilla Cloud Latte",
+    "description": "A mellow cold brew blended with creamy milk and a soft touch of vanilla. Comfort in every chilled sip.",
+    "body": [
+      "We pair our cold brew concentrate with whole milk and a house-made vanilla bean syrup. The result is soft, creamy, and lightly sweet.",
+      "Ask for oat milk if you prefer it dairy-free. The vanilla still shines through."
+    ],
+    "price": "$5.50",
+    "category": "Latte",
+    "notes": "Vanilla, caramel, silky milk",
+    "image": "https://framerusercontent.com/images/nrgtGV7xU60MZiNziHZQGXvJk.jpg?width=1600&height=2400",
+    "related": [
+      "classic-cold-brew",
+      "golden-oat-latte"
+    ],
+    "cta": "Meet Vanilla Cloud"
+  },
+  {
+    "slug": "golden-oat-latte",
+    "name": "Golden Oat Latte",
+    "description": "A balanced espresso-style coffee blend with oat milk for a naturally smooth, plant-based favorite.",
+    "body": [
+      "Golden Oat is our fully plant-based favorite. Creamy oat milk meets a brighter coffee blend and a hint of brown sugar.",
+      "It is naturally smooth, never heavy, and made for slow mornings."
+    ],
+    "price": "$5.75",
+    "category": "Latte",
+    "notes": "Toasted oats, brown sugar, gentle coffee",
+    "image": "https://framerusercontent.com/images/NWzm0SiFOJEGwIbbnNiA3mxkU.jpg?width=1600&height=2400",
+    "related": [
+      "classic-cold-brew",
+      "vanilla-cloud-latte"
+    ],
+    "cta": "Meet Golden Oat"
+  },
+  {
+    "slug": "mocha-daydream",
+    "name": "Mocha Daydream",
+    "description": "Deep coffee meets chocolatey goodness in a chilled drink made for your little afternoon reset.",
+    "body": [
+      "Mocha Daydream blends our cold brew with real Dutch cocoa and a little cane sugar, then finishes it with cold milk.",
+      "It tastes like a chocolate bar and a good coffee had a very good afternoon together."
+    ],
+    "price": "$5.75",
+    "category": "Latte",
+    "notes": "Cocoa, roasted coffee, soft sweetness",
+    "image": "https://framerusercontent.com/images/yOIVblTSS0lLKYqxQibC5vXerRI.jpg?width=1600&height=2243",
+    "related": [
+      "classic-cold-brew",
+      "vanilla-cloud-latte"
+    ],
+    "cta": "Meet Mocha Daydream"
+  },
+  {
+    "slug": "salted-honey-brew",
+    "name": "Salted Honey Brew",
+    "description": "Cold brew sweetened with wildflower honey and a pinch of sea salt, topped with a light layer of cream.",
+    "body": [
+      "We sweeten this one with local wildflower honey and add a pinch of flaky sea salt to round out the coffee.",
+      "A light cold foam on top makes every sip a little richer."
+    ],
+    "price": "$5.50",
+    "category": "Seasonal",
+    "notes": "Wildflower honey, sea salt, soft cream",
+    "image": "https://framerusercontent.com/images/7Y70Qr0yrY7855yQaNrkxROs3i4.jpg?width=1200&height=1804",
+    "related": [
+      "classic-cold-brew",
+      "vanilla-cloud-latte"
+    ],
+    "cta": "Meet Salted Honey"
+  },
+  {
+    "slug": "sunrise-tonic",
+    "name": "Sunrise Tonic",
+    "description": "Sparkling tonic poured over cold brew with a twist of fresh orange. Bright, bubbly, and made for warm days.",
+    "body": [
+      "Sunrise Tonic layers our Classic Cold Brew over chilled tonic water and finishes it with a fresh orange twist.",
+      "It is light, sparkling, and a little unexpected. Our favorite pick for summer afternoons."
+    ],
+    "price": "$5.25",
+    "category": "Seasonal",
+    "notes": "Orange peel, citrus, crisp bitterness",
+    "image": "https://framerusercontent.com/images/ZJDS29ZIJg4xCe2vHBRwrvzE.jpg?width=1200&height=1800",
+    "related": [
+      "classic-cold-brew",
+      "vanilla-cloud-latte"
+    ],
+    "cta": "Meet Sunrise Tonic"
+  }
+]

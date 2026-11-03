@@ -1,0 +1,330 @@
+{
+  "template": "caldoro",
+  "screenshots": [
+    {
+      "file": "assets/desktop-home.webp",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actualPixels": [
+        1430,
+        993
+      ],
+      "page": "",
+      "metrics": {
+        "broken": [],
+        "client": 1430,
+        "documentHeight": 5895,
+        "fonts": "loaded",
+        "scrollWidth": 1430,
+        "scrollY": 0,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "sha256": "eeb5c7ba670016d5dee9ba2cabfe78428736fd0351d335fa721d58bfa8ba4102",
+      "capturedAt": "2026-11-03T10:51:53.601Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/desktop-features.webp",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actualPixels": [
+        1430,
+        993
+      ],
+      "page": "menu",
+      "metrics": {
+        "broken": [],
+        "client": 1430,
+        "documentHeight": 2275,
+        "fonts": "loaded",
+        "scrollWidth": 1430,
+        "scrollY": 0,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "sha256": "80839ca016102df664fceaa5750ad4f1d477ca7c898905f222cd46b8c89bc429",
+      "capturedAt": "2026-11-03T10:51:53.764Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/desktop-blog.webp",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actualPixels": [
+        1430,
+        993
+      ],
+      "page": "menu/classic-cold-brew",
+      "metrics": {
+        "broken": [],
+        "client": 1430,
+        "documentHeight": 2376,
+        "fonts": "loaded",
+        "scrollWidth": 1430,
+        "scrollY": 0,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "sha256": "fdbaf65ba0b99d8f5d089e26ccf48a1ecfc9e344fc87ea06c5aba02ba72d31fa",
+      "capturedAt": "2026-11-03T10:51:53.918Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/desktop-contact.webp",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "actualPixels": [
+        1430,
+        993
+      ],
+      "page": "contact",
+      "metrics": {
+        "broken": [],
+        "client": 1430,
+        "documentHeight": 1977,
+        "fonts": "loaded",
+        "scrollWidth": 1430,
+        "scrollY": 0,
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "sha256": "b04ee14edfecc7a8464c0c99a5ba70bbf2594dc99f926f60808e85ac95798015",
+      "capturedAt": "2026-11-03T10:51:54.055Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/tablet-home.webp",
+      "viewport": [
+        834,
+        1180
+      ],
+      "actualPixels": [
+        824,
+        1166
+      ],
+      "page": "",
+      "metrics": {
+        "broken": [],
+        "client": 824,
+        "documentHeight": 6099,
+        "fonts": "loaded",
+        "scrollWidth": 824,
+        "scrollY": 0,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      "sha256": "8fa7e79f8964e48571dd5656ef97742a9567700dbf479d55267cee3caf00b80a",
+      "capturedAt": "2026-11-03T10:51:54.202Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/tablet-features.webp",
+      "viewport": [
+        834,
+        1180
+      ],
+      "actualPixels": [
+        824,
+        1166
+      ],
+      "page": "menu",
+      "metrics": {
+        "broken": [],
+        "client": 824,
+        "documentHeight": 3017,
+        "fonts": "loaded",
+        "scrollWidth": 824,
+        "scrollY": 0,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      "sha256": "d143f4d064d52b2e23e8329bcddf6fed75f8baf16dc160c0b55aca87bd13d54a",
+      "capturedAt": "2026-11-03T10:51:54.332Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/tablet-blog.webp",
+      "viewport": [
+        834,
+        1180
+      ],
+      "actualPixels": [
+        824,
+        1166
+      ],
+      "page": "menu/classic-cold-brew",
+      "metrics": {
+        "broken": [],
+        "client": 824,
+        "documentHeight": 2397,
+        "fonts": "loaded",
+        "scrollWidth": 824,
+        "scrollY": 0,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      "sha256": "9e25671955bb896e6da7947601e551e3a8055cccf55ce91156fc562325d53bcb",
+      "capturedAt": "2026-11-03T10:51:54.470Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/tablet-contact.webp",
+      "viewport": [
+        834,
+        1180
+      ],
+      "actualPixels": [
+        824,
+        1166
+      ],
+      "page": "contact",
+      "metrics": {
+        "broken": [],
+        "client": 824,
+        "documentHeight": 1830,
+        "fonts": "loaded",
+        "scrollWidth": 824,
+        "scrollY": 0,
+        "viewport": [
+          834,
+          1180
+        ]
+      },
+      "sha256": "31c0c490445ee8b7bdd99646efacfca123d65c8c6473c7f78b6557555ebdecf7",
+      "capturedAt": "2026-11-03T10:51:54.612Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/mobile-home.webp",
+      "viewport": [
+        390,
+        844
+      ],
+      "actualPixels": [
+        380,
+        822
+      ],
+      "page": "",
+      "metrics": {
+        "broken": [],
+        "client": 380,
+        "documentHeight": 8803,
+        "fonts": "loaded",
+        "scrollWidth": 380,
+        "scrollY": 0,
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      "sha256": "3c4bc53f8ec0acf74878ed02cc0f9ba416374a749d25a4e827bc143344e2e970",
+      "capturedAt": "2026-11-03T10:51:54.761Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/mobile-features.webp",
+      "viewport": [
+        390,
+        844
+      ],
+      "actualPixels": [
+        380,
+        822
+      ],
+      "page": "menu",
+      "metrics": {
+        "broken": [],
+        "client": 380,
+        "documentHeight": 5054,
+        "fonts": "loaded",
+        "scrollWidth": 380,
+        "scrollY": 0,
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      "sha256": "9787a6013d98961a43132d42213a0d87287bb6f6fd7e90d26610a7a728c0925e",
+      "capturedAt": "2026-11-03T10:51:54.922Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/mobile-blog.webp",
+      "viewport": [
+        390,
+        844
+      ],
+      "actualPixels": [
+        380,
+        822
+      ],
+      "page": "menu/classic-cold-brew",
+      "metrics": {
+        "broken": [],
+        "client": 380,
+        "documentHeight": 3674,
+        "fonts": "loaded",
+        "scrollWidth": 380,
+        "scrollY": 0,
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      "sha256": "173a1c5b59049cfe6203a26ed737932c544907995fd56fc1ba679dfa2211f186",
+      "capturedAt": "2026-11-03T10:51:55.062Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    },
+    {
+      "file": "assets/mobile-contact.webp",
+      "viewport": [
+        390,
+        844
+      ],
+      "actualPixels": [
+        380,
+        822
+      ],
+      "page": "contact",
+      "metrics": {
+        "broken": [],
+        "client": 380,
+        "documentHeight": 2640,
+        "fonts": "loaded",
+        "scrollWidth": 380,
+        "scrollY": 0,
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      "sha256": "c10d5b4db3b64e4829506aaecec68266ddc3ceb7208ed84df6d5d4cad38d64d2",
+      "capturedAt": "2026-11-03T10:51:55.183Z",
+      "evidence": "内置浏览器真实页面截图；未缩放，按实际解码尺寸登记"
+    }
+  ],
+  "note": "本模板没有独立博客时，以真实产品详情覆盖第四类展示页面。"
+}

@@ -1,0 +1,223 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "caldoro",
+  "version": "1.0.0",
+  "name": "Caldoro · 精品冷萃咖啡",
+  "gitUrl": "https://github.com/weelume/caldoro-template",
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "精品冷萃咖啡",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "咖啡品牌首页、六款菜单产品及详情、联系和邮件订阅演示；旋转环徽、双向标语带、风味进度、产品悬停、公告和页脚摆动。",
+  "accentColor": "#4d61ff",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "首页 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-features.webp",
+      "alt": "咖啡菜单 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "menu"
+    },
+    {
+      "src": "assets/desktop-blog.webp",
+      "alt": "产品详情 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "menu/classic-cold-brew"
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "联系 · desktop",
+      "device": "desktop",
+      "width": 1430,
+      "height": 993,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "首页 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-features.webp",
+      "alt": "咖啡菜单 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "menu"
+    },
+    {
+      "src": "assets/tablet-blog.webp",
+      "alt": "产品详情 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "menu/classic-cold-brew"
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "联系 · tablet",
+      "device": "tablet",
+      "width": 824,
+      "height": 1166,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "首页 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-features.webp",
+      "alt": "咖啡菜单 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "menu"
+    },
+    {
+      "src": "assets/mobile-blog.webp",
+      "alt": "产品详情 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "menu/classic-cold-brew"
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "联系 · mobile",
+      "device": "mobile",
+      "width": 380,
+      "height": 822,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "响应式官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "好咖啡 好时光",
+          "localizedTitles": {
+            "en": "Good coffee.Golden moments."
+          }
+        },
+        {
+          "slug": "menu/classic-cold-brew",
+          "title": "经典冷萃",
+          "localizedTitles": {
+            "en": "Classic Cold Brew"
+          }
+        },
+        {
+          "slug": "menu/golden-oat-latte",
+          "title": "金色燕麦拿铁",
+          "localizedTitles": {
+            "en": "Golden Oat Latte"
+          }
+        },
+        {
+          "slug": "menu",
+          "title": "每一种Caldoro 都在这里",
+          "localizedTitles": {
+            "en": "Every Caldoro, all in one place."
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "一起找到你的Caldoro",
+          "localizedTitles": {
+            "en": "Let’s find your Caldoro."
+          }
+        },
+        {
+          "slug": "menu/vanilla-cloud-latte",
+          "title": "香草云朵拿铁",
+          "localizedTitles": {
+            "en": "Vanilla Cloud Latte"
+          }
+        },
+        {
+          "slug": "menu/mocha-daydream",
+          "title": "摩卡白日梦",
+          "localizedTitles": {
+            "en": "Mocha Daydream"
+          }
+        },
+        {
+          "slug": "menu/salted-honey-brew",
+          "title": "海盐蜂蜜冷萃",
+          "localizedTitles": {
+            "en": "Salted Honey Brew"
+          }
+        },
+        {
+          "slug": "menu/sunrise-tonic",
+          "title": "日出汤力",
+          "localizedTitles": {
+            "en": "Sunrise Tonic"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "unlicensed",
+    "file": "docs/LICENSE.md",
+    "summary": "待作者确认源码与素材授权范围。",
+    "redistributionAllowed": false
+  },
+  "localizedNames": {
+    "en": "Caldoro"
+  },
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ],
+  "localizedSummaries": {
+    "en": "Bilingual responsive specialty cold brew coffee website with local assets and interactive motion."
+  }
+}

@@ -1,0 +1,1969 @@
+{
+  "template": "caldoro",
+  "checkedAt": "2026-11-03T11:39:35.995Z",
+  "tool": "ChatGPT in-app browser",
+  "routeCombinations": 72,
+  "viewports": [
+    [
+      1440,
+      1000
+    ],
+    [
+      834,
+      1180
+    ],
+    [
+      390,
+      844
+    ],
+    [
+      320,
+      844
+    ]
+  ],
+  "routes": [
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "",
+      "url": "http://localhost:3114/",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "好咖啡金色好时光"
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:32.062Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "经典冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:46.072Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "金色燕麦拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:46.341Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "menu",
+      "url": "http://localhost:3114/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "每一杯好咖啡　都在这里"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:46.639Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "contact",
+      "url": "http://localhost:3114/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "来找你的　那一杯咖啡"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:46.889Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "香草云朵拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:47.128Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "摩卡白日梦"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:47.376Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "海盐蜂蜜冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:47.596Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "zh",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "日出汤力"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:47.810Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "",
+      "url": "http://localhost:3114/en/",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Good coffee.Golden moments."
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:48.091Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/en/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Classic Cold Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:48.346Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/en/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Golden Oat Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:48.551Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "menu",
+      "url": "http://localhost:3114/en/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Every Caldoro, all in one place."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:48.838Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "contact",
+      "url": "http://localhost:3114/en/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Let’s find your Caldoro."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:49.071Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/en/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Vanilla Cloud Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:49.285Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/en/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Mocha Daydream"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:49.501Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/en/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Salted Honey Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:49.700Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        1440,
+        1000
+      ],
+      "locale": "en",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/en/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 1430,
+      "h1": [
+        "Sunrise Tonic"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        1440,
+        1000
+      ],
+      "width": 1430,
+      "checkedAt": "2026-11-03T10:57:49.920Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "",
+      "url": "http://localhost:3114/",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "好咖啡金色好时光"
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:50.422Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "经典冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:50.675Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "金色燕麦拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:50.944Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "menu",
+      "url": "http://localhost:3114/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "每一杯好咖啡　都在这里"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:51.253Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "contact",
+      "url": "http://localhost:3114/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "来找你的　那一杯咖啡"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:51.510Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "香草云朵拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:51.797Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "摩卡白日梦"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:52.030Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "海盐蜂蜜冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:52.274Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "zh",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "日出汤力"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:52.501Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "",
+      "url": "http://localhost:3114/en/",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Good coffee.Golden moments."
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:52.777Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/en/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Classic Cold Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:53.016Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/en/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Golden Oat Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:53.242Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "menu",
+      "url": "http://localhost:3114/en/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Every Caldoro, all in one place."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:53.480Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "contact",
+      "url": "http://localhost:3114/en/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Let’s find your Caldoro."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:53.682Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/en/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Vanilla Cloud Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:53.904Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/en/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Mocha Daydream"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:54.141Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/en/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Salted Honey Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:54.387Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        834,
+        1180
+      ],
+      "locale": "en",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/en/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 824,
+      "h1": [
+        "Sunrise Tonic"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        834,
+        1180
+      ],
+      "width": 824,
+      "checkedAt": "2026-11-03T10:57:54.622Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "",
+      "url": "http://localhost:3114/",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "好咖啡金色好时光"
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:55.059Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "经典冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:55.349Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "金色燕麦拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:55.606Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu",
+      "url": "http://localhost:3114/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "每一杯好咖啡　都在这里"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:55.911Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "contact",
+      "url": "http://localhost:3114/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "来找你的　那一杯咖啡"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:56.209Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "香草云朵拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:56.557Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "摩卡白日梦"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:56.831Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "海盐蜂蜜冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:57.102Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "日出汤力"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:57.362Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "",
+      "url": "http://localhost:3114/en/",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Good coffee.Golden moments."
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:57.664Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/en/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Classic Cold Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:57.891Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/en/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Golden Oat Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:58.120Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu",
+      "url": "http://localhost:3114/en/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Every Caldoro, all in one place."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:58.357Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "contact",
+      "url": "http://localhost:3114/en/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Let’s find your Caldoro."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:58.585Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/en/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Vanilla Cloud Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:58.804Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/en/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Mocha Daydream"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:59.159Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/en/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Salted Honey Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:59.407Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        390,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/en/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 380,
+      "h1": [
+        "Sunrise Tonic"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        390,
+        844
+      ],
+      "width": 380,
+      "checkedAt": "2026-11-03T10:57:59.671Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "",
+      "url": "http://localhost:3114/",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "好咖啡金色好时光"
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:57:59.948Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "经典冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:00.166Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "金色燕麦拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:00.399Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu",
+      "url": "http://localhost:3114/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "每一杯好咖啡　都在这里"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:00.674Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "contact",
+      "url": "http://localhost:3114/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "来找你的　那一杯咖啡"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:00.914Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "香草云朵拿铁"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:01.177Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "摩卡白日梦"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:01.473Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "海盐蜂蜜冷萃"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:01.685Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "zh",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "日出汤力"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:01.898Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "",
+      "url": "http://localhost:3114/en/",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Good coffee.Golden moments."
+      ],
+      "pending": 2,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:02.185Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/classic-cold-brew",
+      "url": "http://localhost:3114/en/menu/classic-cold-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Classic Cold Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:02.462Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/golden-oat-latte",
+      "url": "http://localhost:3114/en/menu/golden-oat-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Golden Oat Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:02.726Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu",
+      "url": "http://localhost:3114/en/menu",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Every Caldoro, all in one place."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:02.985Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "contact",
+      "url": "http://localhost:3114/en/contact",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Let’s find your Caldoro."
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:03.217Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/vanilla-cloud-latte",
+      "url": "http://localhost:3114/en/menu/vanilla-cloud-latte",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Vanilla Cloud Latte"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:03.466Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/mocha-daydream",
+      "url": "http://localhost:3114/en/menu/mocha-daydream",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Mocha Daydream"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:03.701Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/salted-honey-brew",
+      "url": "http://localhost:3114/en/menu/salted-honey-brew",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Salted Honey Brew"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:03.927Z"
+    },
+    {
+      "id": "caldoro",
+      "size": [
+        320,
+        844
+      ],
+      "locale": "en",
+      "slug": "menu/sunrise-tonic",
+      "url": "http://localhost:3114/en/menu/sunrise-tonic",
+      "alerts": [],
+      "broken": [],
+      "client": 310,
+      "h1": [
+        "Sunrise Tonic"
+      ],
+      "pending": 0,
+      "textOverflow": [],
+      "viewport": [
+        320,
+        844
+      ],
+      "width": 310,
+      "checkedAt": "2026-11-03T10:58:04.152Z"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "caldoro",
+      "name": "navigation-final-1440-zh",
+      "result": {
+        "menuAvailable": false,
+        "desktopNav": true
+      },
+      "checkedAt": "2026-11-03T11:09:31.818Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "navigation-final-1440-en",
+      "result": {
+        "menuAvailable": false,
+        "desktopNav": true
+      },
+      "checkedAt": "2026-11-03T11:09:32.391Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "menu-final-834-zh",
+      "result": {
+        "viewport": [
+          834,
+          1180
+        ],
+        "open": {
+          "active": "BUTTON",
+          "dialog": false,
+          "drawer": 164.1354217529297,
+          "expanded": "true",
+          "overflow": ""
+        },
+        "closed": {
+          "expanded": "false",
+          "focusReturned": true,
+          "overflow": ""
+        }
+      },
+      "checkedAt": "2026-11-03T11:09:33.503Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "menu-final-834-en",
+      "result": {
+        "viewport": [
+          834,
+          1180
+        ],
+        "open": {
+          "active": "BUTTON",
+          "dialog": false,
+          "drawer": 166.5104217529297,
+          "expanded": "true",
+          "overflow": ""
+        },
+        "closed": {
+          "expanded": "false",
+          "focusReturned": true,
+          "overflow": ""
+        }
+      },
+      "checkedAt": "2026-11-03T11:09:34.582Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "menu-final-390-zh",
+      "result": {
+        "viewport": [
+          390,
+          844
+        ],
+        "open": {
+          "active": "BUTTON",
+          "dialog": false,
+          "drawer": 165.2291717529297,
+          "expanded": "true",
+          "overflow": ""
+        },
+        "closed": {
+          "expanded": "false",
+          "focusReturned": true,
+          "overflow": ""
+        }
+      },
+      "checkedAt": "2026-11-03T11:09:35.724Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "menu-final-390-en",
+      "result": {
+        "viewport": [
+          390,
+          844
+        ],
+        "open": {
+          "active": "BUTTON",
+          "dialog": false,
+          "drawer": 165.625,
+          "expanded": "true",
+          "overflow": ""
+        },
+        "closed": {
+          "expanded": "false",
+          "focusReturned": true,
+          "overflow": ""
+        }
+      },
+      "checkedAt": "2026-11-03T11:09:36.789Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "local-contact-form",
+      "result": {
+        "status": "校验通过，信息未发送或保存。"
+      },
+      "checkedAt": "2026-11-03T11:24:51.604Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "locale-query-hash",
+      "result": {
+        "url": "http://localhost:3114/en/contact?verification=1#template-main"
+      },
+      "checkedAt": "2026-11-03T11:24:51.791Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "newsletter-local-validation",
+      "result": {
+        "status": "本地校验通过，信息尚未发送或保存。"
+      },
+      "checkedAt": "2026-11-03T11:24:52.580Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "motion-footer-visible",
+      "result": {
+        "footer": [
+          {
+            "matrix": "none",
+            "play": "running"
+          },
+          {
+            "matrix": "none",
+            "play": "running"
+          }
+        ],
+        "rings": [
+          {
+            "matrix": "matrix(0.999229, 0.0392598, -0.0392598, 0.999229, 0, 0)",
+            "play": "paused"
+          },
+          {
+            "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+            "play": "paused"
+          }
+        ],
+        "ticker": [
+          "transform: translate3d(-2.66288px, 0px, 0px);",
+          "transform: translate3d(0px, 0px, 0px);",
+          "transform: translate3d(-1px, 0px, 0px);"
+        ]
+      },
+      "checkedAt": "2026-11-03T11:26:49.541Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "motion-hero-visible",
+      "result": {
+        "footer": [
+          "paused",
+          "paused"
+        ],
+        "rings": [
+          {
+            "matrix": "matrix(0.98965, 0.143506, -0.143506, 0.98965, 0, 0)",
+            "play": "running"
+          },
+          {
+            "matrix": "matrix(1, 0, 0, 1, 0, 0)",
+            "play": "paused"
+          }
+        ],
+        "ticker": [
+          "transform: translate3d(-13.3269px, 0px, 0px);",
+          "transform: translate3d(0px, 0px, 0px);",
+          "transform: translate3d(-1px, 0px, 0px);"
+        ]
+      },
+      "checkedAt": "2026-11-03T11:26:49.865Z"
+    },
+    {
+      "id": "caldoro",
+      "name": "ring-running-second-sample",
+      "result": {
+        "play": "running",
+        "ring": "matrix(-0.446452, -0.894808, 0.894808, -0.446452, 0, 0)"
+      },
+      "checkedAt": "2026-11-03T11:27:48.320Z"
+    }
+  ],
+  "interpretation": "保留初始和过渡状态原始记录，以settled、final和修复复测记录判定终态；案例标签在内部横向滚动区中的越界为有意设计，Waytech隐藏评价的入场偏移不是可见裁切。",
+  "fixes": [
+    "手机菜单按原站采用自然高度展开。",
+    "环徽双语、页脚动效单一时钟及离屏暂停已检查。"
+  ],
+  "limitations": [
+    "使用桌面内置浏览器模拟三端与320px窄屏，未在真实iOS/iPadOS硬件验证触控、惯性或系统覆盖式滚动条。",
+    "原站全部页面、全部动效的逐项初始/运行/终态及精确时序对照未全部完成；本报告只确认记录中的运行子项，不声明逐帧精确一致。",
+    "减少动态效果分支已有实现与源码检查，未实际切换系统偏好完成全站验收。",
+    "原生滚动条拖动/悬停未三端定量比较；实际指针拖拽释放与触控回弹未完整验证，案例对比已验证键盘范围。",
+    "参考站设计、图片、视频商业再分发授权尚未确认，listed=false。"
+  ]
+}
